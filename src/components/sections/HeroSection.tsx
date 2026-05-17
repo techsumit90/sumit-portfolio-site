@@ -32,15 +32,15 @@ const HeroSection = () => {
           
           <div className="text-xl md:text-2xl lg:text-3xl text-muted-foreground mb-8 fade-in" style={{ animationDelay: '3s' }}>
             <TypingText 
-              text="Frontend Developer | UI/UX Designer | AI Enthusiast"
+              text="Frontend Developer | UI/UX Designer | Problem Solver"
               speed={60}
               className=""
             />
           </div>
           
           <p className="text-lg md:text-xl text-muted-foreground mb-12 max-w-2xl mx-auto fade-in" style={{ animationDelay: '5s' }}>
-            Computer Engineering Student passionate about creating beautiful, 
-            functional web experiences and innovative AI solutions.
+            Computer Engineering student building user-focused products with clean code,
+            strong design thinking, and real project impact.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-6 justify-center items-center fade-in" style={{ animationDelay: '6s' }}>
