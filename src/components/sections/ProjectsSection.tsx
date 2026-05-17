@@ -28,8 +28,8 @@ const ProjectsSection = () => {
       image: projectStartup,
       category: 'Web Development',
       technologies: ['HTML', 'CSS', 'JavaScript', 'SQL', 'Bootstrap'],
-      liveUrl: '#',
-      githubUrl: '#'
+      liveUrl: 'https://sumit-salmuthe.github.io',
+      githubUrl: 'https://github.com/sumit-salmuthe'
     },
     {
       id: '2',
@@ -38,8 +38,8 @@ const ProjectsSection = () => {
       image: projectAmazon,
       category: 'Web Development',
       technologies: ['HTML', 'CSS', 'JavaScript', 'Responsive Design'],
-      liveUrl: '#',
-      githubUrl: '#'
+      liveUrl: 'https://sumit-salmuthe.github.io',
+      githubUrl: 'https://github.com/sumit-salmuthe'
     }
   ];
 
@@ -57,7 +57,7 @@ const ProjectsSection = () => {
             <h2 className="text-3xl md:text-5xl font-bold mb-4">Featured Projects</h2>
             <div className="w-20 h-1 gradient-primary mx-auto rounded-full mb-6"></div>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-              A collection of projects that showcase my skills and passion for development
+              A curated set of practical builds that highlight product thinking, execution speed, and frontend craftsmanship
             </p>
           </div>
 
